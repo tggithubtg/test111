@@ -1,3 +1,5 @@
 hello！git
 hello! git,git
 hello! git,git,git
+这是我在master里添加的功能5
+第五个功能，。。。又已经完成了！
